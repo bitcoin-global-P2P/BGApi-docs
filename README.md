@@ -1,6 +1,6 @@
 # Official Documentation of Bitcoin Global API
 
-* [General](/General.md)
+* [General](/Private/General.md)
     * [Payment methods](/General.md#payment-methods)
     * [Payment methods for country](/General.md#payment-methods-for-country)
     * [Countrycodes](/General.md#countrycodes)
